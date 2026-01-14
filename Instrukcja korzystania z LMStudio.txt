@@ -1,0 +1,2 @@
+Uruchomienie serera (CMD): lms server start
+

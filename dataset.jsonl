@@ -1,0 +1,100 @@
+{"input":"floor: garage level; userPositionInfo: middle of sterilization room;","output":"You are on the garage level, in the middle of the sterilization room."}
+{"input":"floor: reception level; userPositionInfo: end of phone booth; landmarkInfo: large planter near the staircase;","output":"You are on the reception level, at the end of the phone booth, with a large planter near the staircase."}
+{"input":"floor: penthouse; userPositionInfo: middle of gallery room;","output":"You are in the middle of the gallery room on the penthouse."}
+{"input":"floor: rooftop; userPositionInfo: beginning of junior suite; landmarkInfo: floor drain at the back of the room;","output":"You are on the rooftop, at the beginning of the junior suite, with a floor drain at the back of the room."}
+{"input":"floor: cellar; userPositionInfo: near exit of bedroom; landmarkInfo: wall-mounted map in the middle;","output":"You are in the cellar, near the exit of the bedroom, with a wall-mounted map in the middle."}
+{"input":"floor: penthouse; userPositionInfo: middle of storage room; landmarkInfo: room number plate along the wall;","output":"You are in the middle of the storage room on the penthouse, with a room number plate along the wall."}
+{"input":"floor: penthouse level; userPositionInfo: near entrance of storage hall; landmarkInfo: elevator shaft adjacent to a corridor;","output":"You are on the penthouse level, near the entrance of the storage hall, with an elevator shaft adjacent to a corridor."}
+{"input":"floor: maintenance level; userPositionInfo: beginning of tool room; landmarkInfo: ceiling duct near the exit;","output":"You are on the maintenance level, at the beginning of the tool room, with a ceiling duct near the exit."}
+{"input":"floor: sky level; userPositionInfo: middle of banquet hall;","output":"You are on the sky level, in the middle of the banquet hall."}
+{"input":"floor: rooftop; userPositionInfo: middle of sauna room;","output":"You are on the rooftop, in the middle of the sauna room."}
+{"input":"floor: mechanical floor; userPositionInfo: middle of data center hall; landmarkInfo: wall recess at the back of the room;","output":"You are on the mechanical floor, in the middle of the data center hall, with a wall recess at the back of the room."}
+{"input":"floor: intermediate floor; userPositionInfo: end of parking hall;","output":"You are on the intermediate floor, at the end of the parking hall."}
+{"input":"floor: split level; userPositionInfo: near entrance of monitoring room; landmarkInfo: corridor opening beside a column;","output":"You are on the split level, near the entrance of the monitoring room, with a corridor opening beside a column."}
+{"input":"floor: first floor; userPositionInfo: middle of archive room; landmarkInfo: sprinkler valve at the back of the room;","output":"You are on the first floor, in the middle of the archive room, with a sprinkler valve at the back of the room."}
+{"input":"floor: fourth floor; userPositionInfo: end of pump room; landmarkInfo: load-bearing wall along the wall;","output":"You are on the fourth floor, at the end of the pump room, with a load-bearing wall along the wall."}
+{"input":"floor: mezzanine level; userPositionInfo: near entrance of living room; landmarkInfo: skylight between columns;","output":"You are on the mezzanine level, near the entrance of the living room, with a skylight between columns."}
+{"input":"floor: upper level; userPositionInfo: end of boiler room;","output":"You are on the upper level, at the end of the boiler room."}
+{"input":"floor: fourth floor; userPositionInfo: near entrance of living room; landmarkInfo: ceiling duct at the front of the room;","output":"You are on the fourth floor, near the entrance of the living room, with a ceiling duct at the front of the room."}
+{"input":"floor: half floor; userPositionInfo: beginning of instrument room; landmarkInfo: elevator door near the entrance;","output":"You are on the half floor, at the beginning of the instrument room, with an elevator door near the entrance."}
+{"input":"floor: technical floor; userPositionInfo: end of stock room;","output":"You are on the technical floor, at the end of the stock room."}
+{"input":"floor: cellar; userPositionInfo: in specimen room;","output":"You are in the specimen room in the cellar."}
+{"input":"floor: underground level; userPositionInfo: middle of utility room;","output":"You are on the underground level, in the middle of the utility room."}
+{"input":"floor: terrace level; userPositionInfo: middle of swimming pool hall;","output":"You are on the terrace level, in the middle of the swimming pool hall."}
+{"input":"floor: maintenance level; userPositionInfo: end of cold storage; landmarkInfo: staircase near the window;","output":"You are on the maintenance level, at the end of the cold storage, with a staircase near the window."}
+{"input":"floor: sixth floor; userPositionInfo: end of theater hall;","output":"You are on the sixth floor, at the end of the theater hall."}
+{"input":"floor: fourth floor; userPositionInfo: end of data center hall; landmarkInfo: decorative fountain between columns;","output":"You are on the fourth floor, at the end of the data center hall, with a decorative fountain between columns."}
+{"input":"floor: mezzanine level; userPositionInfo: central area of boardroom;","output":"You are on the mezzanine level, in the central area of the boardroom."}
+{"input":"floor: ground level; userPositionInfo: middle of guest room; landmarkInfo: room number plate near the staircase;","output":"You are on the ground level, in the middle of the guest room, with a room number plate near the staircase."}
+{"input":"floor: first floor; userPositionInfo: in dry lab; landmarkInfo: ventilation shaft near the exit;","output":"You are in the dry lab on the first floor, with a ventilation shaft near the exit."}
+{"input":"floor: fifth floor; userPositionInfo: central area of equipment storage; landmarkInfo: electrical cabinet near the window;","output":"You are on the fifth floor, in the central area of the equipment storage, with an electrical cabinet near the window."}
+{"input":"floor: cellar; userPositionInfo: beginning of private office;","output":"You are in the cellar, at the beginning of the private office."}
+{"input":"floor: garage level; userPositionInfo: end of security room; landmarkInfo: indoor garden pit next to the wall;","output":"You are on the garage level, at the end of the security room, with an indoor garden pit next to the wall."}
+{"input":"floor: B3; userPositionInfo: end of pump room;","output":"You are on level B3, at the end of the pump room."}
+{"input":"floor: B2; userPositionInfo: in children's room; landmarkInfo: load-bearing wall between columns;","output":"You are on level B2, in the children's room, with a load-bearing wall between columns."}
+{"input":"floor: third floor; userPositionInfo: middle of breakfast room; landmarkInfo: sprinkler valve beside a column;","output":"You are on the third floor, in the middle of the breakfast room, with a sprinkler valve beside a column."}
+{"input":"floor: lower ground floor; userPositionInfo: near exit of robotics room;","output":"You are on the lower ground floor, near the exit of the robotics room."}
+{"input":"floor: lower ground floor; userPositionInfo: middle of cinema room; landmarkInfo: wall recess near the exit;","output":"You are on the lower ground floor, in the middle of the cinema room, with a wall recess near the exit."}
+{"input":"floor: B1; userPositionInfo: end of server cage; landmarkInfo: doorway at the front of the room;","output":"You are on level B1, at the end of the server cage, with a doorway at the front of the room."}
+{"input":"floor: second floor; userPositionInfo: in conference room;","output":"You are in the conference room on the second floor."}
+{"input":"floor: commercial floor; userPositionInfo: middle of corridor;","output":"You are on the commercial floor, in the middle of the corridor."}
+{"input":"floor: basement; userPositionInfo: central area of coworking room;","output":"You are in the basement, in the central area of the coworking room."}
+{"input":"floor: first floor; userPositionInfo: middle of walkway;","output":"You are on the first floor, in the middle of the walkway."}
+{"input":"floor: cellar; userPositionInfo: in suite;","output":"You are in the suite in the cellar."}
+{"input":"floor: B2; userPositionInfo: near entrance of MRI room;","output":"You are on level B2, near the entrance of the MRI room."}
+{"input":"floor: office floor; userPositionInfo: end of game room;","output":"You are on the office floor, at the end of the game room."}
+{"input":"floor: technical floor; userPositionInfo: central area of atrium; landmarkInfo: glass wall in the corner;","output":"You are on the technical floor, in the central area of the atrium, with a glass wall in the corner."}
+{"input":"floor: top floor; userPositionInfo: end of study room;","output":"You are on the top floor, at the end of the study room."}
+{"input":"floor: maintenance level; userPositionInfo: middle of laboratory room;","output":"You are on the maintenance level, in the middle of the laboratory room."}
+{"input":"floor: commercial floor; userPositionInfo: middle of compressor room;","output":"You are on the commercial floor, in the middle of the compressor room."}
+{"input":"floor: reception level; userPositionInfo: near entrance of office;","output":"You are on the reception level, near the entrance of the office."}
+{"input":"floor: upper level; userPositionInfo: central area of surveillance room;","output":"You are on the upper level, in the central area of the surveillance room."}
+{"input":"floor: fourth floor; userPositionInfo: central area of CT room;","output":"You are on the fourth floor, in the central area of the CT room."}
+{"input":"floor: entry level; userPositionInfo: middle of lounge;","output":"You are on the entry level, in the middle of the lounge."}
+{"input":"floor: sky level; userPositionInfo: end of workshop;","output":"You are on the sky level, at the end of the workshop."}
+{"input":"floor: B3; userPositionInfo: beginning of sauna room;","output":"You are on level B3, at the beginning of the sauna room."}
+{"input":"floor: middle floor; userPositionInfo: central area of server room;","output":"You are on the middle floor, in the central area of the server room."}
+{"input":"floor: terrace level; userPositionInfo: in examination room; landmarkInfo: solid wall in the central area;","output":"You are on the terrace level, in the examination room, with a solid wall in the central area."}
+{"input":"floor: underground level; userPositionInfo: central area of imaging room;","output":"You are on the underground level, in the central area of the imaging room."}
+{"input":"floor: basement; userPositionInfo: end of garage; landmarkInfo: floor marking near the staircase;","output":"You are in the basement, at the end of the garage, with a floor marking near the staircase."}
+{"input":"floor: B2; userPositionInfo: central area of vault room; landmarkInfo: warning sign near the exit;","output":"You are on level B2, in the central area of the vault room, with a warning sign near the exit."}
+{"input":"floor: utility level; userPositionInfo: in passageway; landmarkInfo: electrical cabinet in the middle;","output":"You are on the utility level, in the passageway, with an electrical cabinet in the middle."}
+{"input":"floor: top level; userPositionInfo: central area of safe room; landmarkInfo: fire hose cabinet in the central area;","output":"You are on the top level, in the central area of the safe room, with a fire hose cabinet in the central area."}
+{"input":"floor: rooftop; userPositionInfo: beginning of exhibition hall;","output":"You are on the rooftop, at the beginning of the exhibition hall."}
+{"input":"floor: garage level; userPositionInfo: near entrance of stock room; landmarkInfo: sprinkler valve in the central area;","output":"You are on the garage level, near the entrance of the stock room, with a sprinkler valve in the central area."}
+{"input":"floor: ninth floor; userPositionInfo: near entrance of fitting room;","output":"You are on the ninth floor, near the entrance of the fitting room."}
+{"input":"floor: service floor; userPositionInfo: near exit of sauna room; landmarkInfo: fixed ventilation grille near the window;","output":"You are on the service floor, near the exit of the sauna room, with a fixed ventilation grille near the window."}
+{"input":"floor: commercial floor; userPositionInfo: beginning of MRI room; landmarkInfo: indoor garden pit near the staircase;","output":"You are on the commercial floor, at the beginning of the MRI room, with an indoor garden pit near the staircase."}
+{"input":"floor: underground level; userPositionInfo: middle of master bedroom; landmarkInfo: support pillar adjacent to a corridor;","output":"You are on the underground level, in the middle of the master bedroom, with a support pillar adjacent to a corridor."}
+{"input":"floor: penthouse level; userPositionInfo: near entrance of open office; landmarkInfo: ventilation shaft along the wall;","output":"You are on the penthouse level, near the entrance of the open office, with a ventilation shaft along the wall."}
+{"input":"floor: rooftop; userPositionInfo: beginning of microscopy room;","output":"You are on the rooftop, at the beginning of the microscopy room."}
+{"input":"floor: upper level; userPositionInfo: beginning of presidential suite; landmarkInfo: wall recess near the entrance;","output":"You are on the upper level, at the beginning of the presidential suite, with a wall recess near the entrance."}
+{"input":"floor: utility level; userPositionInfo: end of stockroom; landmarkInfo: room number plate at the front of the room;","output":"You are on the utility level, at the end of the stockroom, with a room number plate at the front of the room."}
+{"input":"floor: top level; userPositionInfo: beginning of stock room; landmarkInfo: floor marking under the skylight;","output":"You are on the top level, at the beginning of the stock room, with a floor marking under the skylight."}
+{"input":"floor: parking level; userPositionInfo: beginning of back office; landmarkInfo: directional sign near the exit;","output":"You are on the parking level, at the beginning of the back office, with a directional sign near the exit."}
+{"input":"floor: garage level; userPositionInfo: end of music room;","output":"You are on the garage level, at the end of the music room."}
+{"input":"floor: ground level; userPositionInfo: middle of surveillance room;","output":"You are on the ground level, in the middle of the surveillance room."}
+{"input":"floor: main floor; userPositionInfo: end of sterilization room;","output":"You are on the main floor, at the end of the sterilization room."}
+{"input":"floor: ground floor; userPositionInfo: end of imaging room;","output":"You are on the ground floor, at the end of the imaging room."}
+{"input":"floor: lobby level; userPositionInfo: beginning of examination room;","output":"You are on the lobby level, at the beginning of the examination room."}
+{"input":"floor: cellar; userPositionInfo: in surgery room; landmarkInfo: large planter near the exit;","output":"You are in the surgery room in the cellar, with a large planter near the exit."}
+{"input":"floor: commercial floor; userPositionInfo: end of recreation room;","output":"You are on the commercial floor, at the end of the recreation room."}
+{"input":"floor: ground level; userPositionInfo: in X-ray room;","output":"You are in the X-ray room on the ground level."}
+{"input":"floor: lobby level; userPositionInfo: near exit of gallery room;","output":"You are on the lobby level, near the exit of the gallery room."}
+{"input":"floor: mezzanine; userPositionInfo: near exit of compressor room;","output":"You are on the mezzanine, near the exit of the compressor room."}
+{"input":"floor: mezzanine level; userPositionInfo: near exit of HVAC room; landmarkInfo: wall-mounted map near the exit;","output":"You are on the mezzanine level, near the exit of the HVAC room, with a wall-mounted map near the exit."}
+{"input":"floor: ninth floor; userPositionInfo: beginning of safe room;","output":"You are on the ninth floor, at the beginning of the safe room."}
+{"input":"floor: B1; userPositionInfo: middle of storage hall;","output":"You are on level B1, in the middle of the storage hall."}
+{"input":"floor: entry level; userPositionInfo: in walkway;","output":"You are in the walkway on the entry level."}
+{"input":"floor: tenth floor; userPositionInfo: central area of laboratory;","output":"You are on the tenth floor, in the central area of the laboratory."}
+{"input":"floor: mechanical floor; userPositionInfo: beginning of cinema room;","output":"You are on the mechanical floor, at the beginning of the cinema room."}
+{"input":"floor: top level; userPositionInfo: in operating room; landmarkInfo: utility shaft near the elevator;","output":"You are in the operating room on the top level, with a utility shaft near the elevator."}
+{"input":"floor: observation level; userPositionInfo: central area of surveillance room;","output":"You are on the observation level, in the central area of the surveillance room."}
+{"input":"floor: B2; userPositionInfo: end of utility room;","output":"You are on level B2, at the end of the utility room."}
+{"input":"floor: sub-basement; userPositionInfo: middle of tutorial room; landmarkInfo: warning sign along the wall;","output":"You are in the sub-basement, in the middle of the tutorial room, with a warning sign along the wall."}
+{"input":"floor: middle floor; userPositionInfo: central area of gallery room;","output":"You are on the middle floor, in the central area of the gallery room."}
+{"input":"floor: penthouse; userPositionInfo: middle of operating room;","output":"You are in the middle of the operating room on the penthouse."}
+{"input":"floor: penthouse; userPositionInfo: near entrance of exhibition hall; landmarkInfo: HVAC unit next to the wall;","output":"You are on the penthouse, near the entrance of the exhibition hall, with an HVAC unit next to the wall."}
+{"input":"floor: penthouse level; userPositionInfo: middle of corridor; landmarkInfo: utility shaft between columns;","output":"You are on the penthouse level, in the middle of the corridor, with a utility shaft between columns."}
+{"input":"floor: tenth floor; userPositionInfo: near entrance of laboratory; landmarkInfo: fuse box beside a column;","output":"You are on the tenth floor, near the entrance of the laboratory, with a fuse box beside a column."}
+{"input":"floor: sub-basement; userPositionInfo: beginning of sterilization room;","output":"You are in the sub-basement, at the beginning of the sterilization room."}

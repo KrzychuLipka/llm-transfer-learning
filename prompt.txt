@@ -1,0 +1,125 @@
+Generate a dataset based on the input lines provided below.
+Each input element is a single line.
+Return the result in JSONL format, where each line has the structure:
+{"input": "...", "output": "..."}.
+
+OUTPUT REQUIREMENTS:
+- Generate a concise, natural, and grammatically correct description of the user's current location, starting with 'You'.
+- Ensure that all information from the input phrases is included.
+- Maintain proper sentence structure and logical flow by adding necessary articles (the, a, an) and prepositions (in, on, at).
+- Do not introduce any details, descriptions, or assumptions beyond the given input phrases.
+- Use only the information explicitly provided.
+- Avoid repetition.
+- The output style must strictly follow the expert examples below.
+- Produce natural, precise, single‑sentence spatial descriptions.
+- Do not repeat the examples — generate only new records.
+
+EXPERT EXAMPLES:
+{"input": "floor: basement level; userPositionInfo: end of spacious laboratory room, next to double roller gate; landmarkInfo: two columns in middle of room, behind double roller gate is exit ramp for vehicles.", "output": "You are on the basement level, at the end of a spacious laboratory room with two columns in the middle, next to a double roller gate with a vehicle exit ramp behind it."}
+{"input": "floor: first floor; userPositionInfo: end of southwest corridor", "output": "You are at the end of the southwest corridor on the first floor."}
+{"input": "floor: first floor; userPositionInfo: beginning of north-eastern corridor; landmarkInfo: corridor access through fire door.", "output": "You are on the first floor, at the beginning of the northeastern corridor, which is accessed through a fire door."}
+{"input": "floor: ground floor; userPositionInfo: end of northeastern corridor, next to entrance to conference room.", "output": "You are on the ground floor, at the end of the northeastern corridor, next to the entrance to the conference room."}
+{"input": "floor: first floor; userPositionInfo: in small central hall, next to spiral staircase", "output": "You are in a small central hall on the first floor, close to the spiral staircase."}
+{"input": "floor: ground floor; userPositionInfo: in corridor, before toilets entrance, next to building’s entrance hall.", "output": "You are in the corridor before the entrance to the toilets, next to the building’s entrance hall."}
+
+INPUT DATA:
+floor: garage level; userPositionInfo: middle of sterilization room;
+floor: reception level; userPositionInfo: end of phone booth; landmarkInfo: large planter near the staircase;
+floor: penthouse; userPositionInfo: middle of gallery room;
+floor: rooftop; userPositionInfo: beginning of junior suite; landmarkInfo: floor drain at the back of the room;
+floor: cellar; userPositionInfo: near exit of bedroom; landmarkInfo: wall-mounted map in the middle;
+floor: penthouse; userPositionInfo: middle of storage room; landmarkInfo: room number plate along the wall;
+floor: penthouse level; userPositionInfo: near entrance of storage hall; landmarkInfo: elevator shaft adjacent to a corridor;
+floor: maintenance level; userPositionInfo: beginning of tool room; landmarkInfo: ceiling duct near the exit;
+floor: sky level; userPositionInfo: middle of banquet hall;
+floor: rooftop; userPositionInfo: middle of sauna room;
+floor: mechanical floor; userPositionInfo: middle of data center hall; landmarkInfo: wall recess at the back of the room;
+floor: intermediate floor; userPositionInfo: end of parking hall;
+floor: split level; userPositionInfo: near entrance of monitoring room; landmarkInfo: corridor opening beside a column;
+floor: first floor; userPositionInfo: middle of archive room; landmarkInfo: sprinkler valve at the back of the room;
+floor: fourth floor; userPositionInfo: end of pump room; landmarkInfo: load-bearing wall along the wall;
+floor: mezzanine level; userPositionInfo: near entrance of living room; landmarkInfo: skylight between columns;
+floor: upper level; userPositionInfo: end of boiler room;
+floor: fourth floor; userPositionInfo: near entrance of living room; landmarkInfo: ceiling duct at the front of the room;
+floor: half floor; userPositionInfo: beginning of instrument room; landmarkInfo: elevator door near the entrance;
+floor: technical floor; userPositionInfo: end of stock room;
+floor: cellar; userPositionInfo: in specimen room;
+floor: underground level; userPositionInfo: middle of utility room;
+floor: terrace level; userPositionInfo: middle of swimming pool hall;
+floor: maintenance level; userPositionInfo: end of cold storage; landmarkInfo: staircase near the window;
+floor: sixth floor; userPositionInfo: end of theater hall;
+floor: fourth floor; userPositionInfo: end of data center hall; landmarkInfo: decorative fountain between columns;
+floor: mezzanine level; userPositionInfo: central area of boardroom;
+floor: ground level; userPositionInfo: middle of guest room; landmarkInfo: room number plate near the staircase;
+floor: first floor; userPositionInfo: in dry lab; landmarkInfo: ventilation shaft near the exit;
+floor: fifth floor; userPositionInfo: central area of equipment storage; landmarkInfo: electrical cabinet near the window;
+floor: cellar; userPositionInfo: beginning of private office;
+floor: garage level; userPositionInfo: end of security room; landmarkInfo: indoor garden pit next to the wall;
+floor: B3; userPositionInfo: end of pump room;
+floor: B2; userPositionInfo: in children's room; landmarkInfo: load-bearing wall between columns;
+floor: third floor; userPositionInfo: middle of breakfast room; landmarkInfo: sprinkler valve beside a column;
+floor: lower ground floor; userPositionInfo: near exit of robotics room;
+floor: lower ground floor; userPositionInfo: middle of cinema room; landmarkInfo: wall recess near the exit;
+floor: B1; userPositionInfo: end of server cage; landmarkInfo: doorway at the front of the room;
+floor: second floor; userPositionInfo: in conference room;
+floor: commercial floor; userPositionInfo: middle of corridor;
+floor: basement; userPositionInfo: central area of coworking room;
+floor: first floor; userPositionInfo: middle of walkway;
+floor: cellar; userPositionInfo: in suite;
+floor: B2; userPositionInfo: near entrance of MRI room;
+floor: office floor; userPositionInfo: end of game room;
+floor: technical floor; userPositionInfo: central area of atrium; landmarkInfo: glass wall in the corner;
+floor: top floor; userPositionInfo: end of study room;
+floor: maintenance level; userPositionInfo: middle of laboratory room;
+floor: commercial floor; userPositionInfo: middle of compressor room;
+floor: reception level; userPositionInfo: near entrance of office;
+floor: upper level; userPositionInfo: central area of surveillance room;
+floor: fourth floor; userPositionInfo: central area of CT room;
+floor: entry level; userPositionInfo: middle of lounge;
+floor: sky level; userPositionInfo: end of workshop;
+floor: B3; userPositionInfo: beginning of sauna room;
+floor: middle floor; userPositionInfo: central area of server room;
+floor: terrace level; userPositionInfo: in examination room; landmarkInfo: solid wall in the central area;
+floor: underground level; userPositionInfo: central area of imaging room;
+floor: basement; userPositionInfo: end of garage; landmarkInfo: floor marking near the staircase;
+floor: B2; userPositionInfo: central area of vault room; landmarkInfo: warning sign near the exit;
+floor: utility level; userPositionInfo: in passageway; landmarkInfo: electrical cabinet in the middle;
+floor: top level; userPositionInfo: central area of safe room; landmarkInfo: fire hose cabinet in the central area;
+floor: rooftop; userPositionInfo: beginning of exhibition hall;
+floor: garage level; userPositionInfo: near entrance of stock room; landmarkInfo: sprinkler valve in the central area;
+floor: ninth floor; userPositionInfo: near entrance of fitting room;
+floor: service floor; userPositionInfo: near exit of sauna room; landmarkInfo: fixed ventilation grille near the window;
+floor: commercial floor; userPositionInfo: beginning of MRI room; landmarkInfo: indoor garden pit near the staircase;
+floor: underground level; userPositionInfo: middle of master bedroom; landmarkInfo: support pillar adjacent to a corridor;
+floor: penthouse level; userPositionInfo: near entrance of open office; landmarkInfo: ventilation shaft along the wall;
+floor: rooftop; userPositionInfo: beginning of microscopy room;
+floor: upper level; userPositionInfo: beginning of presidential suite; landmarkInfo: wall recess near the entrance;
+floor: utility level; userPositionInfo: end of stockroom; landmarkInfo: room number plate at the front of the room;
+floor: top level; userPositionInfo: beginning of stock room; landmarkInfo: floor marking under the skylight;
+floor: parking level; userPositionInfo: beginning of back office; landmarkInfo: directional sign near the exit;
+floor: garage level; userPositionInfo: end of music room;
+floor: ground level; userPositionInfo: middle of surveillance room;
+floor: main floor; userPositionInfo: end of sterilization room;
+floor: ground floor; userPositionInfo: end of imaging room;
+floor: lobby level; userPositionInfo: beginning of examination room;
+floor: cellar; userPositionInfo: in surgery room; landmarkInfo: large planter near the exit;
+floor: commercial floor; userPositionInfo: end of recreation room;
+floor: ground level; userPositionInfo: in X-ray room;
+floor: lobby level; userPositionInfo: near exit of gallery room;
+floor: mezzanine; userPositionInfo: near exit of compressor room;
+floor: mezzanine level; userPositionInfo: near exit of HVAC room; landmarkInfo: wall-mounted map near the exit;
+floor: ninth floor; userPositionInfo: beginning of safe room;
+floor: B1; userPositionInfo: middle of storage hall;
+floor: entry level; userPositionInfo: in walkway;
+floor: tenth floor; userPositionInfo: central area of laboratory;
+floor: mechanical floor; userPositionInfo: beginning of cinema room;
+floor: top level; userPositionInfo: in operating room; landmarkInfo: utility shaft near the elevator;
+floor: observation level; userPositionInfo: central area of surveillance room;
+floor: B2; userPositionInfo: end of utility room;
+floor: sub-basement; userPositionInfo: middle of tutorial room; landmarkInfo: warning sign along the wall;
+floor: middle floor; userPositionInfo: central area of gallery room;
+floor: penthouse; userPositionInfo: middle of operating room;
+floor: penthouse; userPositionInfo: near entrance of exhibition hall; landmarkInfo: HVAC unit next to the wall;
+floor: penthouse level; userPositionInfo: middle of corridor; landmarkInfo: utility shaft between columns;
+floor: tenth floor; userPositionInfo: near entrance of laboratory; landmarkInfo: fuse box beside a column;
+floor: sub-basement; userPositionInfo: beginning of sterilization room;
