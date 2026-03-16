@@ -14,7 +14,7 @@ class PromptGenerator:
 
     def __init__(
         self,
-        dataset_size: int = 1000
+        dataset_size: int = 300
     ):
         self.dataset_size = dataset_size
 

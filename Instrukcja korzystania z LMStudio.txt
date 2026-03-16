@@ -1,2 +1,2 @@
-Uruchomienie serera (CMD): lms server start
+Uruchomienie serwera (CMD): lms server start
 

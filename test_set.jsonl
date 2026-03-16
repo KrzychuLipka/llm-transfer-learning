@@ -1,0 +1,300 @@
+{"input": "floor: first floor; userPositionInfo: beginning of stockroom; landmarkInfo: floor drain near the elevator;", "output": "You are on the first floor, at the beginning of the stockroom with a floor drain near the elevator."}
+{"input": "floor: underground level; userPositionInfo: near exit of event hall;", "output": "You are on the underground level, near the exit of the event hall."}
+{"input": "floor: executive floor; userPositionInfo: near exit of reading room;", "output": "You are on the executive floor, near the exit of the reading room."}
+{"input": "floor: entry level; userPositionInfo: central area of fitting room; landmarkInfo: column along the wall;", "output": "You are on the entry level, in the central area of the fitting room with a column along the wall."}
+{"input": "floor: maintenance level; userPositionInfo: near entrance of CT room; landmarkInfo: art installation near the entrance;", "output": "You are on the maintenance level, near the entrance of the CT room with a art installation near the entrance."}
+{"input": "floor: B2; userPositionInfo: beginning of side corridor;", "output": "You are on the B2, at the beginning of the side corridor."}
+{"input": "floor: ground floor; userPositionInfo: near exit of parking hall;", "output": "You are on the ground floor, near the exit of the parking hall."}
+{"input": "floor: technical floor; userPositionInfo: in presidential suite; landmarkInfo: sculpture under the skylight;", "output": "You are in the presidential suite on the technical floor with a sculpture under the skylight."}
+{"input": "floor: fourth floor; userPositionInfo: middle of event hall;", "output": "You are on the fourth floor, in the middle of the event hall."}
+{"input": "floor: utility level; userPositionInfo: central area of prayer room; landmarkInfo: large planter along the wall;", "output": "You are on the utility level, in the central area of the prayer room with a large planter along the wall."}
+{"input": "floor: reception level; userPositionInfo: middle of walk-in closet; landmarkInfo: ceiling beam in the central area;", "output": "You are on the reception level, in the middle of the walk-in closet with a ceiling beam in the central area."}
+{"input": "floor: penthouse level; userPositionInfo: end of research room; landmarkInfo: ventilation shaft in the middle;", "output": "You are on the penthouse level, at the end of the research room with a ventilation shaft in the middle."}
+{"input": "floor: B1; userPositionInfo: near entrance of charging room;", "output": "You are on the B1, near the entrance of the charging room."}
+{"input": "floor: first floor; userPositionInfo: in data center hall;", "output": "You are in the data center hall on the first floor."}
+{"input": "floor: top floor; userPositionInfo: central area of examination room;", "output": "You are on the top floor, in the central area of the examination room."}
+{"input": "floor: lower ground floor; userPositionInfo: near exit of conference hall; landmarkInfo: ventilation shaft in the middle;", "output": "You are on the lower ground floor, near the exit of the conference hall with a ventilation shaft in the middle."}
+{"input": "floor: main floor; userPositionInfo: central area of electrical room; landmarkInfo: fixed railing under the skylight;", "output": "You are on the main floor, in the central area of the electrical room with a fixed railing under the skylight."}
+{"input": "floor: executive floor; userPositionInfo: in main corridor;", "output": "You are in the main corridor on the executive floor."}
+{"input": "floor: entry level; userPositionInfo: near entrance of X-ray room;", "output": "You are on the entry level, near the entrance of the X-ray room."}
+{"input": "floor: cellar; userPositionInfo: near entrance of toilet;", "output": "You are on the cellar, near the entrance of the toilet."}
+{"input": "floor: first floor; userPositionInfo: beginning of stockroom; landmarkInfo: floor drain near the elevator;", "output": "You are on the first floor, at the beginning of the stockroom with a floor drain near the elevator."}
+{"input": "floor: underground level; userPositionInfo: near exit of event hall;", "output": "You are on the underground level, near the exit of the event hall."}
+{"input": "floor: executive floor; userPositionInfo: near exit of reading room;", "output": "You are on the executive floor, near the exit of the reading room."}
+{"input": "floor: entry level; userPositionInfo: central area of fitting room; landmarkInfo: column along the wall;", "output": "You are on the entry level, in the central area of the fitting room with a column along the wall."}
+{"input": "floor: maintenance level; userPositionInfo: near entrance of CT room; landmarkInfo: art installation near the entrance;", "output": "You are on the maintenance level, near the entrance of the CT room with a art installation near the entrance."}
+{"input": "floor: B2; userPositionInfo: beginning of side corridor;", "output": "You are on the B2, at the beginning of the side corridor."}
+{"input": "floor: ground floor; userPositionInfo: near exit of parking hall;", "output": "You are on the ground floor, near the exit of the parking hall."}
+{"input": "floor: technical floor; userPositionInfo: in presidential suite; landmarkInfo: sculpture under the skylight;", "output": "You are in the presidential suite on the technical floor with a sculpture under the skylight."}
+{"input": "floor: fourth floor; userPositionInfo: middle of event hall;", "output": "You are on the fourth floor, in the middle of the event hall."}
+{"input": "floor: utility level; userPositionInfo: central area of prayer room; landmarkInfo: large planter along the wall;", "output": "You are on the utility level, in the central area of the prayer room with a large planter along the wall."}
+{"input": "floor: reception level; userPositionInfo: middle of walk-in closet; landmarkInfo: ceiling beam in the central area;", "output": "You are on the reception level, in the middle of the walk-in closet with a ceiling beam in the central area."}
+{"input": "floor: penthouse level; userPositionInfo: end of research room; landmarkInfo: ventilation shaft in the middle;", "output": "You are on the penthouse level, at the end of the research room with a ventilation shaft in the middle."}
+{"input": "floor: B1; userPositionInfo: near entrance of charging room;", "output": "You are on the B1, near the entrance of the charging room."}
+{"input": "floor: first floor; userPositionInfo: in data center hall;", "output": "You are in the data center hall on the first floor."}
+{"input": "floor: top floor; userPositionInfo: central area of examination room;", "output": "You are on the top floor, in the central area of the examination room."}
+{"input": "floor: lower ground floor; userPositionInfo: near exit of conference hall; landmarkInfo: ventilation shaft in the middle;", "output": "You are on the lower ground floor, near the exit of the conference hall with a ventilation shaft in the middle."}
+{"input": "floor: main floor; userPositionInfo: central area of electrical room; landmarkInfo: fixed railing under the skylight;", "output": "You are on the main floor, in the central area of the electrical room with a fixed railing under the skylight."}
+{"input": "floor: executive floor; userPositionInfo: in main corridor;", "output": "You are in the main corridor on the executive floor."}
+{"input": "floor: entry level; userPositionInfo: near entrance of X-ray room;", "output": "You are on the entry level, near the entrance of the X-ray room."}
+{"input": "floor: cellar; userPositionInfo: near entrance of toilet;", "output": "You are on the cellar, near the entrance of the toilet."}
+{"input": "floor: first floor; userPositionInfo: beginning of stockroom; landmarkInfo: floor drain near the elevator;", "output": "You are on the first floor, at the beginning of the stockroom with a floor drain near the elevator."}
+{"input": "floor: underground level; userPositionInfo: near exit of event hall;", "output": "You are on the underground level, near the exit of the event hall."}
+{"input": "floor: executive floor; userPositionInfo: near exit of reading room;", "output": "You are on the executive floor, near the exit of the reading room."}
+{"input": "floor: entry level; userPositionInfo: central area of fitting room; landmarkInfo: column along the wall;", "output": "You are on the entry level, in the central area of the fitting room with a column along the wall."}
+{"input": "floor: maintenance level; userPositionInfo: near entrance of CT room; landmarkInfo: art installation near the entrance;", "output": "You are on the maintenance level, near the entrance of the CT room with a art installation near the entrance."}
+{"input": "floor: B2; userPositionInfo: beginning of side corridor;", "output": "You are on the B2, at the beginning of the side corridor."}
+{"input": "floor: ground floor; userPositionInfo: near exit of parking hall;", "output": "You are on the ground floor, near the exit of the parking hall."}
+{"input": "floor: technical floor; userPositionInfo: in presidential suite; landmarkInfo: sculpture under the skylight;", "output": "You are in the presidential suite on the technical floor with a sculpture under the skylight."}
+{"input": "floor: fourth floor; userPositionInfo: middle of event hall;", "output": "You are on the fourth floor, in the middle of the event hall."}
+{"input": "floor: utility level; userPositionInfo: central area of prayer room; landmarkInfo: large planter along the wall;", "output": "You are on the utility level, in the central area of the prayer room with a large planter along the wall."}
+{"input": "floor: reception level; userPositionInfo: middle of walk-in closet; landmarkInfo: ceiling beam in the central area;", "output": "You are on the reception level, in the middle of the walk-in closet with a ceiling beam in the central area."}
+{"input": "floor: penthouse level; userPositionInfo: end of research room; landmarkInfo: ventilation shaft in the middle;", "output": "You are on the penthouse level, at the end of the research room with a ventilation shaft in the middle."}
+{"input": "floor: B1; userPositionInfo: near entrance of charging room;", "output": "You are on the B1, near the entrance of the charging room."}
+{"input": "floor: first floor; userPositionInfo: in data center hall;", "output": "You are in the data center hall on the first floor."}
+{"input": "floor: top floor; userPositionInfo: central area of examination room;", "output": "You are on the top floor, in the central area of the examination room."}
+{"input": "floor: lower ground floor; userPositionInfo: near exit of conference hall; landmarkInfo: ventilation shaft in the middle;", "output": "You are on the lower ground floor, near the exit of the conference hall with a ventilation shaft in the middle."}
+{"input": "floor: main floor; userPositionInfo: central area of electrical room; landmarkInfo: fixed railing under the skylight;", "output": "You are on the main floor, in the central area of the electrical room with a fixed railing under the skylight."}
+{"input": "floor: executive floor; userPositionInfo: in main corridor;", "output": "You are in the main corridor on the executive floor."}
+{"input": "floor: entry level; userPositionInfo: near entrance of X-ray room;", "output": "You are on the entry level, near the entrance of the X-ray room."}
+{"input": "floor: cellar; userPositionInfo: near entrance of toilet;", "output": "You are on the cellar, near the entrance of the toilet."}
+{"input": "floor: first floor; userPositionInfo: beginning of stockroom; landmarkInfo: floor drain near the elevator;", "output": "You are on the first floor, at the beginning of the stockroom with a floor drain near the elevator."}
+{"input": "floor: underground level; userPositionInfo: near exit of event hall;", "output": "You are on the underground level, near the exit of the event hall."}
+{"input": "floor: executive floor; userPositionInfo: near exit of reading room;", "output": "You are on the executive floor, near the exit of the reading room."}
+{"input": "floor: entry level; userPositionInfo: central area of fitting room; landmarkInfo: column along the wall;", "output": "You are on the entry level, in the central area of the fitting room with a column along the wall."}
+{"input": "floor: maintenance level; userPositionInfo: near entrance of CT room; landmarkInfo: art installation near the entrance;", "output": "You are on the maintenance level, near the entrance of the CT room with a art installation near the entrance."}
+{"input": "floor: B2; userPositionInfo: beginning of side corridor;", "output": "You are on the B2, at the beginning of the side corridor."}
+{"input": "floor: ground floor; userPositionInfo: near exit of parking hall;", "output": "You are on the ground floor, near the exit of the parking hall."}
+{"input": "floor: technical floor; userPositionInfo: in presidential suite; landmarkInfo: sculpture under the skylight;", "output": "You are in the presidential suite on the technical floor with a sculpture under the skylight."}
+{"input": "floor: fourth floor; userPositionInfo: middle of event hall;", "output": "You are on the fourth floor, in the middle of the event hall."}
+{"input": "floor: utility level; userPositionInfo: central area of prayer room; landmarkInfo: large planter along the wall;", "output": "You are on the utility level, in the central area of the prayer room with a large planter along the wall."}
+{"input": "floor: reception level; userPositionInfo: middle of walk-in closet; landmarkInfo: ceiling beam in the central area;", "output": "You are on the reception level, in the middle of the walk-in closet with a ceiling beam in the central area."}
+{"input": "floor: penthouse level; userPositionInfo: end of research room; landmarkInfo: ventilation shaft in the middle;", "output": "You are on the penthouse level, at the end of the research room with a ventilation shaft in the middle."}
+{"input": "floor: B1; userPositionInfo: near entrance of charging room;", "output": "You are on the B1, near the entrance of the charging room."}
+{"input": "floor: first floor; userPositionInfo: in data center hall;", "output": "You are in the data center hall on the first floor."}
+{"input": "floor: top floor; userPositionInfo: central area of examination room;", "output": "You are on the top floor, in the central area of the examination room."}
+{"input": "floor: lower ground floor; userPositionInfo: near exit of conference hall; landmarkInfo: ventilation shaft in the middle;", "output": "You are on the lower ground floor, near the exit of the conference hall with a ventilation shaft in the middle."}
+{"input": "floor: main floor; userPositionInfo: central area of electrical room; landmarkInfo: fixed railing under the skylight;", "output": "You are on the main floor, in the central area of the electrical room with a fixed railing under the skylight."}
+{"input": "floor: executive floor; userPositionInfo: in main corridor;", "output": "You are in the main corridor on the executive floor."}
+{"input": "floor: entry level; userPositionInfo: near entrance of X-ray room;", "output": "You are on the entry level, near the entrance of the X-ray room."}
+{"input": "floor: cellar; userPositionInfo: near entrance of toilet;", "output": "You are on the cellar, near the entrance of the toilet."}
+{"input": "floor: first floor; userPositionInfo: beginning of stockroom; landmarkInfo: floor drain near the elevator;", "output": "You are on the first floor, at the beginning of the stockroom with a floor drain near the elevator."}
+{"input": "floor: underground level; userPositionInfo: near exit of event hall;", "output": "You are on the underground level, near the exit of the event hall."}
+{"input": "floor: executive floor; userPositionInfo: near exit of reading room;", "output": "You are on the executive floor, near the exit of the reading room."}
+{"input": "floor: entry level; userPositionInfo: central area of fitting room; landmarkInfo: column along the wall;", "output": "You are on the entry level, in the central area of the fitting room with a column along the wall."}
+{"input": "floor: maintenance level; userPositionInfo: near entrance of CT room; landmarkInfo: art installation near the entrance;", "output": "You are on the maintenance level, near the entrance of the CT room with a art installation near the entrance."}
+{"input": "floor: B2; userPositionInfo: beginning of side corridor;", "output": "You are on the B2, at the beginning of the side corridor."}
+{"input": "floor: ground floor; userPositionInfo: near exit of parking hall;", "output": "You are on the ground floor, near the exit of the parking hall."}
+{"input": "floor: technical floor; userPositionInfo: in presidential suite; landmarkInfo: sculpture under the skylight;", "output": "You are in the presidential suite on the technical floor with a sculpture under the skylight."}
+{"input": "floor: fourth floor; userPositionInfo: middle of event hall;", "output": "You are on the fourth floor, in the middle of the event hall."}
+{"input": "floor: utility level; userPositionInfo: central area of prayer room; landmarkInfo: large planter along the wall;", "output": "You are on the utility level, in the central area of the prayer room with a large planter along the wall."}
+{"input": "floor: reception level; userPositionInfo: middle of walk-in closet; landmarkInfo: ceiling beam in the central area;", "output": "You are on the reception level, in the middle of the walk-in closet with a ceiling beam in the central area."}
+{"input": "floor: penthouse level; userPositionInfo: end of research room; landmarkInfo: ventilation shaft in the middle;", "output": "You are on the penthouse level, at the end of the research room with a ventilation shaft in the middle."}
+{"input": "floor: B1; userPositionInfo: near entrance of charging room;", "output": "You are on the B1, near the entrance of the charging room."}
+{"input": "floor: first floor; userPositionInfo: in data center hall;", "output": "You are in the data center hall on the first floor."}
+{"input": "floor: top floor; userPositionInfo: central area of examination room;", "output": "You are on the top floor, in the central area of the examination room."}
+{"input": "floor: lower ground floor; userPositionInfo: near exit of conference hall; landmarkInfo: ventilation shaft in the middle;", "output": "You are on the lower ground floor, near the exit of the conference hall with a ventilation shaft in the middle."}
+{"input": "floor: main floor; userPositionInfo: central area of electrical room; landmarkInfo: fixed railing under the skylight;", "output": "You are on the main floor, in the central area of the electrical room with a fixed railing under the skylight."}
+{"input": "floor: executive floor; userPositionInfo: in main corridor;", "output": "You are in the main corridor on the executive floor."}
+{"input": "floor: entry level; userPositionInfo: near entrance of X-ray room;", "output": "You are on the entry level, near the entrance of the X-ray room."}
+{"input": "floor: cellar; userPositionInfo: near entrance of toilet;", "output": "You are on the cellar, near the entrance of the toilet."}
+{"input": "floor: first floor; userPositionInfo: beginning of stockroom; landmarkInfo: floor drain near the elevator;", "output": "You are on the first floor, at the beginning of the stockroom with a floor drain near the elevator."}
+{"input": "floor: underground level; userPositionInfo: near exit of event hall;", "output": "You are on the underground level, near the exit of the event hall."}
+{"input": "floor: executive floor; userPositionInfo: near exit of reading room;", "output": "You are on the executive floor, near the exit of the reading room."}
+{"input": "floor: entry level; userPositionInfo: central area of fitting room; landmarkInfo: column along the wall;", "output": "You are on the entry level, in the central area of the fitting room with a column along the wall."}
+{"input": "floor: maintenance level; userPositionInfo: near entrance of CT room; landmarkInfo: art installation near the entrance;", "output": "You are on the maintenance level, near the entrance of the CT room with a art installation near the entrance."}
+{"input": "floor: B2; userPositionInfo: beginning of side corridor;", "output": "You are on the B2, at the beginning of the side corridor."}
+{"input": "floor: ground floor; userPositionInfo: near exit of parking hall;", "output": "You are on the ground floor, near the exit of the parking hall."}
+{"input": "floor: technical floor; userPositionInfo: in presidential suite; landmarkInfo: sculpture under the skylight;", "output": "You are in the presidential suite on the technical floor with a sculpture under the skylight."}
+{"input": "floor: fourth floor; userPositionInfo: middle of event hall;", "output": "You are on the fourth floor, in the middle of the event hall."}
+{"input": "floor: utility level; userPositionInfo: central area of prayer room; landmarkInfo: large planter along the wall;", "output": "You are on the utility level, in the central area of the prayer room with a large planter along the wall."}
+{"input": "floor: reception level; userPositionInfo: middle of walk-in closet; landmarkInfo: ceiling beam in the central area;", "output": "You are on the reception level, in the middle of the walk-in closet with a ceiling beam in the central area."}
+{"input": "floor: penthouse level; userPositionInfo: end of research room; landmarkInfo: ventilation shaft in the middle;", "output": "You are on the penthouse level, at the end of the research room with a ventilation shaft in the middle."}
+{"input": "floor: B1; userPositionInfo: near entrance of charging room;", "output": "You are on the B1, near the entrance of the charging room."}
+{"input": "floor: first floor; userPositionInfo: in data center hall;", "output": "You are in the data center hall on the first floor."}
+{"input": "floor: top floor; userPositionInfo: central area of examination room;", "output": "You are on the top floor, in the central area of the examination room."}
+{"input": "floor: lower ground floor; userPositionInfo: near exit of conference hall; landmarkInfo: ventilation shaft in the middle;", "output": "You are on the lower ground floor, near the exit of the conference hall with a ventilation shaft in the middle."}
+{"input": "floor: main floor; userPositionInfo: central area of electrical room; landmarkInfo: fixed railing under the skylight;", "output": "You are on the main floor, in the central area of the electrical room with a fixed railing under the skylight."}
+{"input": "floor: executive floor; userPositionInfo: in main corridor;", "output": "You are in the main corridor on the executive floor."}
+{"input": "floor: entry level; userPositionInfo: near entrance of X-ray room;", "output": "You are on the entry level, near the entrance of the X-ray room."}
+{"input": "floor: cellar; userPositionInfo: near entrance of toilet;", "output": "You are on the cellar, near the entrance of the toilet."}
+{"input": "floor: first floor; userPositionInfo: beginning of stockroom; landmarkInfo: floor drain near the elevator;", "output": "You are on the first floor, at the beginning of the stockroom with a floor drain near the elevator."}
+{"input": "floor: underground level; userPositionInfo: near exit of event hall;", "output": "You are on the underground level, near the exit of the event hall."}
+{"input": "floor: executive floor; userPositionInfo: near exit of reading room;", "output": "You are on the executive floor, near the exit of the reading room."}
+{"input": "floor: entry level; userPositionInfo: central area of fitting room; landmarkInfo: column along the wall;", "output": "You are on the entry level, in the central area of the fitting room with a column along the wall."}
+{"input": "floor: maintenance level; userPositionInfo: near entrance of CT room; landmarkInfo: art installation near the entrance;", "output": "You are on the maintenance level, near the entrance of the CT room with a art installation near the entrance."}
+{"input": "floor: B2; userPositionInfo: beginning of side corridor;", "output": "You are on the B2, at the beginning of the side corridor."}
+{"input": "floor: ground floor; userPositionInfo: near exit of parking hall;", "output": "You are on the ground floor, near the exit of the parking hall."}
+{"input": "floor: technical floor; userPositionInfo: in presidential suite; landmarkInfo: sculpture under the skylight;", "output": "You are in the presidential suite on the technical floor with a sculpture under the skylight."}
+{"input": "floor: fourth floor; userPositionInfo: middle of event hall;", "output": "You are on the fourth floor, in the middle of the event hall."}
+{"input": "floor: utility level; userPositionInfo: central area of prayer room; landmarkInfo: large planter along the wall;", "output": "You are on the utility level, in the central area of the prayer room with a large planter along the wall."}
+{"input": "floor: reception level; userPositionInfo: middle of walk-in closet; landmarkInfo: ceiling beam in the central area;", "output": "You are on the reception level, in the middle of the walk-in closet with a ceiling beam in the central area."}
+{"input": "floor: penthouse level; userPositionInfo: end of research room; landmarkInfo: ventilation shaft in the middle;", "output": "You are on the penthouse level, at the end of the research room with a ventilation shaft in the middle."}
+{"input": "floor: B1; userPositionInfo: near entrance of charging room;", "output": "You are on the B1, near the entrance of the charging room."}
+{"input": "floor: first floor; userPositionInfo: in data center hall;", "output": "You are in the data center hall on the first floor."}
+{"input": "floor: top floor; userPositionInfo: central area of examination room;", "output": "You are on the top floor, in the central area of the examination room."}
+{"input": "floor: lower ground floor; userPositionInfo: near exit of conference hall; landmarkInfo: ventilation shaft in the middle;", "output": "You are on the lower ground floor, near the exit of the conference hall with a ventilation shaft in the middle."}
+{"input": "floor: main floor; userPositionInfo: central area of electrical room; landmarkInfo: fixed railing under the skylight;", "output": "You are on the main floor, in the central area of the electrical room with a fixed railing under the skylight."}
+{"input": "floor: executive floor; userPositionInfo: in main corridor;", "output": "You are in the main corridor on the executive floor."}
+{"input": "floor: entry level; userPositionInfo: near entrance of X-ray room;", "output": "You are on the entry level, near the entrance of the X-ray room."}
+{"input": "floor: cellar; userPositionInfo: near entrance of toilet;", "output": "You are on the cellar, near the entrance of the toilet."}
+{"input": "floor: first floor; userPositionInfo: beginning of stockroom; landmarkInfo: floor drain near the elevator;", "output": "You are on the first floor, at the beginning of the stockroom with a floor drain near the elevator."}
+{"input": "floor: underground level; userPositionInfo: near exit of event hall;", "output": "You are on the underground level, near the exit of the event hall."}
+{"input": "floor: executive floor; userPositionInfo: near exit of reading room;", "output": "You are on the executive floor, near the exit of the reading room."}
+{"input": "floor: entry level; userPositionInfo: central area of fitting room; landmarkInfo: column along the wall;", "output": "You are on the entry level, in the central area of the fitting room with a column along the wall."}
+{"input": "floor: maintenance level; userPositionInfo: near entrance of CT room; landmarkInfo: art installation near the entrance;", "output": "You are on the maintenance level, near the entrance of the CT room with a art installation near the entrance."}
+{"input": "floor: B2; userPositionInfo: beginning of side corridor;", "output": "You are on the B2, at the beginning of the side corridor."}
+{"input": "floor: ground floor; userPositionInfo: near exit of parking hall;", "output": "You are on the ground floor, near the exit of the parking hall."}
+{"input": "floor: technical floor; userPositionInfo: in presidential suite; landmarkInfo: sculpture under the skylight;", "output": "You are in the presidential suite on the technical floor with a sculpture under the skylight."}
+{"input": "floor: fourth floor; userPositionInfo: middle of event hall;", "output": "You are on the fourth floor, in the middle of the event hall."}
+{"input": "floor: utility level; userPositionInfo: central area of prayer room; landmarkInfo: large planter along the wall;", "output": "You are on the utility level, in the central area of the prayer room with a large planter along the wall."}
+{"input": "floor: reception level; userPositionInfo: middle of walk-in closet; landmarkInfo: ceiling beam in the central area;", "output": "You are on the reception level, in the middle of the walk-in closet with a ceiling beam in the central area."}
+{"input": "floor: penthouse level; userPositionInfo: end of research room; landmarkInfo: ventilation shaft in the middle;", "output": "You are on the penthouse level, at the end of the research room with a ventilation shaft in the middle."}
+{"input": "floor: B1; userPositionInfo: near entrance of charging room;", "output": "You are on the B1, near the entrance of the charging room."}
+{"input": "floor: first floor; userPositionInfo: in data center hall;", "output": "You are in the data center hall on the first floor."}
+{"input": "floor: top floor; userPositionInfo: central area of examination room;", "output": "You are on the top floor, in the central area of the examination room."}
+{"input": "floor: lower ground floor; userPositionInfo: near exit of conference hall; landmarkInfo: ventilation shaft in the middle;", "output": "You are on the lower ground floor, near the exit of the conference hall with a ventilation shaft in the middle."}
+{"input": "floor: main floor; userPositionInfo: central area of electrical room; landmarkInfo: fixed railing under the skylight;", "output": "You are on the main floor, in the central area of the electrical room with a fixed railing under the skylight."}
+{"input": "floor: executive floor; userPositionInfo: in main corridor;", "output": "You are in the main corridor on the executive floor."}
+{"input": "floor: entry level; userPositionInfo: near entrance of X-ray room;", "output": "You are on the entry level, near the entrance of the X-ray room."}
+{"input": "floor: cellar; userPositionInfo: near entrance of toilet;", "output": "You are on the cellar, near the entrance of the toilet."}
+{"input": "floor: first floor; userPositionInfo: beginning of stockroom; landmarkInfo: floor drain near the elevator;", "output": "You are on the first floor, at the beginning of the stockroom with a floor drain near the elevator."}
+{"input": "floor: underground level; userPositionInfo: near exit of event hall;", "output": "You are on the underground level, near the exit of the event hall."}
+{"input": "floor: executive floor; userPositionInfo: near exit of reading room;", "output": "You are on the executive floor, near the exit of the reading room."}
+{"input": "floor: entry level; userPositionInfo: central area of fitting room; landmarkInfo: column along the wall;", "output": "You are on the entry level, in the central area of the fitting room with a column along the wall."}
+{"input": "floor: maintenance level; userPositionInfo: near entrance of CT room; landmarkInfo: art installation near the entrance;", "output": "You are on the maintenance level, near the entrance of the CT room with a art installation near the entrance."}
+{"input": "floor: B2; userPositionInfo: beginning of side corridor;", "output": "You are on the B2, at the beginning of the side corridor."}
+{"input": "floor: ground floor; userPositionInfo: near exit of parking hall;", "output": "You are on the ground floor, near the exit of the parking hall."}
+{"input": "floor: technical floor; userPositionInfo: in presidential suite; landmarkInfo: sculpture under the skylight;", "output": "You are in the presidential suite on the technical floor with a sculpture under the skylight."}
+{"input": "floor: fourth floor; userPositionInfo: middle of event hall;", "output": "You are on the fourth floor, in the middle of the event hall."}
+{"input": "floor: utility level; userPositionInfo: central area of prayer room; landmarkInfo: large planter along the wall;", "output": "You are on the utility level, in the central area of the prayer room with a large planter along the wall."}
+{"input": "floor: reception level; userPositionInfo: middle of walk-in closet; landmarkInfo: ceiling beam in the central area;", "output": "You are on the reception level, in the middle of the walk-in closet with a ceiling beam in the central area."}
+{"input": "floor: penthouse level; userPositionInfo: end of research room; landmarkInfo: ventilation shaft in the middle;", "output": "You are on the penthouse level, at the end of the research room with a ventilation shaft in the middle."}
+{"input": "floor: B1; userPositionInfo: near entrance of charging room;", "output": "You are on the B1, near the entrance of the charging room."}
+{"input": "floor: first floor; userPositionInfo: in data center hall;", "output": "You are in the data center hall on the first floor."}
+{"input": "floor: top floor; userPositionInfo: central area of examination room;", "output": "You are on the top floor, in the central area of the examination room."}
+{"input": "floor: lower ground floor; userPositionInfo: near exit of conference hall; landmarkInfo: ventilation shaft in the middle;", "output": "You are on the lower ground floor, near the exit of the conference hall with a ventilation shaft in the middle."}
+{"input": "floor: main floor; userPositionInfo: central area of electrical room; landmarkInfo: fixed railing under the skylight;", "output": "You are on the main floor, in the central area of the electrical room with a fixed railing under the skylight."}
+{"input": "floor: executive floor; userPositionInfo: in main corridor;", "output": "You are in the main corridor on the executive floor."}
+{"input": "floor: entry level; userPositionInfo: near entrance of X-ray room;", "output": "You are on the entry level, near the entrance of the X-ray room."}
+{"input": "floor: cellar; userPositionInfo: near entrance of toilet;", "output": "You are on the cellar, near the entrance of the toilet."}
+{"input": "floor: first floor; userPositionInfo: beginning of stockroom; landmarkInfo: floor drain near the elevator;", "output": "You are on the first floor, at the beginning of the stockroom with a floor drain near the elevator."}
+{"input": "floor: underground level; userPositionInfo: near exit of event hall;", "output": "You are on the underground level, near the exit of the event hall."}
+{"input": "floor: executive floor; userPositionInfo: near exit of reading room;", "output": "You are on the executive floor, near the exit of the reading room."}
+{"input": "floor: entry level; userPositionInfo: central area of fitting room; landmarkInfo: column along the wall;", "output": "You are on the entry level, in the central area of the fitting room with a column along the wall."}
+{"input": "floor: maintenance level; userPositionInfo: near entrance of CT room; landmarkInfo: art installation near the entrance;", "output": "You are on the maintenance level, near the entrance of the CT room with a art installation near the entrance."}
+{"input": "floor: B2; userPositionInfo: beginning of side corridor;", "output": "You are on the B2, at the beginning of the side corridor."}
+{"input": "floor: ground floor; userPositionInfo: near exit of parking hall;", "output": "You are on the ground floor, near the exit of the parking hall."}
+{"input": "floor: technical floor; userPositionInfo: in presidential suite; landmarkInfo: sculpture under the skylight;", "output": "You are in the presidential suite on the technical floor with a sculpture under the skylight."}
+{"input": "floor: fourth floor; userPositionInfo: middle of event hall;", "output": "You are on the fourth floor, in the middle of the event hall."}
+{"input": "floor: utility level; userPositionInfo: central area of prayer room; landmarkInfo: large planter along the wall;", "output": "You are on the utility level, in the central area of the prayer room with a large planter along the wall."}
+{"input": "floor: reception level; userPositionInfo: middle of walk-in closet; landmarkInfo: ceiling beam in the central area;", "output": "You are on the reception level, in the middle of the walk-in closet with a ceiling beam in the central area."}
+{"input": "floor: penthouse level; userPositionInfo: end of research room; landmarkInfo: ventilation shaft in the middle;", "output": "You are on the penthouse level, at the end of the research room with a ventilation shaft in the middle."}
+{"input": "floor: B1; userPositionInfo: near entrance of charging room;", "output": "You are on the B1, near the entrance of the charging room."}
+{"input": "floor: first floor; userPositionInfo: in data center hall;", "output": "You are in the data center hall on the first floor."}
+{"input": "floor: top floor; userPositionInfo: central area of examination room;", "output": "You are on the top floor, in the central area of the examination room."}
+{"input": "floor: lower ground floor; userPositionInfo: near exit of conference hall; landmarkInfo: ventilation shaft in the middle;", "output": "You are on the lower ground floor, near the exit of the conference hall with a ventilation shaft in the middle."}
+{"input": "floor: main floor; userPositionInfo: central area of electrical room; landmarkInfo: fixed railing under the skylight;", "output": "You are on the main floor, in the central area of the electrical room with a fixed railing under the skylight."}
+{"input": "floor: executive floor; userPositionInfo: in main corridor;", "output": "You are in the main corridor on the executive floor."}
+{"input": "floor: entry level; userPositionInfo: near entrance of X-ray room;", "output": "You are on the entry level, near the entrance of the X-ray room."}
+{"input": "floor: cellar; userPositionInfo: near entrance of toilet;", "output": "You are on the cellar, near the entrance of the toilet."}
+{"input": "floor: first floor; userPositionInfo: beginning of stockroom; landmarkInfo: floor drain near the elevator;", "output": "You are on the first floor, at the beginning of the stockroom with a floor drain near the elevator."}
+{"input": "floor: underground level; userPositionInfo: near exit of event hall;", "output": "You are on the underground level, near the exit of the event hall."}
+{"input": "floor: executive floor; userPositionInfo: near exit of reading room;", "output": "You are on the executive floor, near the exit of the reading room."}
+{"input": "floor: entry level; userPositionInfo: central area of fitting room; landmarkInfo: column along the wall;", "output": "You are on the entry level, in the central area of the fitting room with a column along the wall."}
+{"input": "floor: maintenance level; userPositionInfo: near entrance of CT room; landmarkInfo: art installation near the entrance;", "output": "You are on the maintenance level, near the entrance of the CT room with a art installation near the entrance."}
+{"input": "floor: B2; userPositionInfo: beginning of side corridor;", "output": "You are on the B2, at the beginning of the side corridor."}
+{"input": "floor: ground floor; userPositionInfo: near exit of parking hall;", "output": "You are on the ground floor, near the exit of the parking hall."}
+{"input": "floor: technical floor; userPositionInfo: in presidential suite; landmarkInfo: sculpture under the skylight;", "output": "You are in the presidential suite on the technical floor with a sculpture under the skylight."}
+{"input": "floor: fourth floor; userPositionInfo: middle of event hall;", "output": "You are on the fourth floor, in the middle of the event hall."}
+{"input": "floor: utility level; userPositionInfo: central area of prayer room; landmarkInfo: large planter along the wall;", "output": "You are on the utility level, in the central area of the prayer room with a large planter along the wall."}
+{"input": "floor: reception level; userPositionInfo: middle of walk-in closet; landmarkInfo: ceiling beam in the central area;", "output": "You are on the reception level, in the middle of the walk-in closet with a ceiling beam in the central area."}
+{"input": "floor: penthouse level; userPositionInfo: end of research room; landmarkInfo: ventilation shaft in the middle;", "output": "You are on the penthouse level, at the end of the research room with a ventilation shaft in the middle."}
+{"input": "floor: B1; userPositionInfo: near entrance of charging room;", "output": "You are on the B1, near the entrance of the charging room."}
+{"input": "floor: first floor; userPositionInfo: in data center hall;", "output": "You are in the data center hall on the first floor."}
+{"input": "floor: top floor; userPositionInfo: central area of examination room;", "output": "You are on the top floor, in the central area of the examination room."}
+{"input": "floor: lower ground floor; userPositionInfo: near exit of conference hall; landmarkInfo: ventilation shaft in the middle;", "output": "You are on the lower ground floor, near the exit of the conference hall with a ventilation shaft in the middle."}
+{"input": "floor: main floor; userPositionInfo: central area of electrical room; landmarkInfo: fixed railing under the skylight;", "output": "You are on the main floor, in the central area of the electrical room with a fixed railing under the skylight."}
+{"input": "floor: executive floor; userPositionInfo: in main corridor;", "output": "You are in the main corridor on the executive floor."}
+{"input": "floor: entry level; userPositionInfo: near entrance of X-ray room;", "output": "You are on the entry level, near the entrance of the X-ray room."}
+{"input": "floor: cellar; userPositionInfo: near entrance of toilet;", "output": "You are on the cellar, near the entrance of the toilet."}
+{"input": "floor: first floor; userPositionInfo: beginning of stockroom; landmarkInfo: floor drain near the elevator;", "output": "You are on the first floor, at the beginning of the stockroom with a floor drain near the elevator."}
+{"input": "floor: underground level; userPositionInfo: near exit of event hall;", "output": "You are on the underground level, near the exit of the event hall."}
+{"input": "floor: executive floor; userPositionInfo: near exit of reading room;", "output": "You are on the executive floor, near the exit of the reading room."}
+{"input": "floor: entry level; userPositionInfo: central area of fitting room; landmarkInfo: column along the wall;", "output": "You are on the entry level, in the central area of the fitting room with a column along the wall."}
+{"input": "floor: maintenance level; userPositionInfo: near entrance of CT room; landmarkInfo: art installation near the entrance;", "output": "You are on the maintenance level, near the entrance of the CT room with a art installation near the entrance."}
+{"input": "floor: B2; userPositionInfo: beginning of side corridor;", "output": "You are on the B2, at the beginning of the side corridor."}
+{"input": "floor: ground floor; userPositionInfo: near exit of parking hall;", "output": "You are on the ground floor, near the exit of the parking hall."}
+{"input": "floor: technical floor; userPositionInfo: in presidential suite; landmarkInfo: sculpture under the skylight;", "output": "You are in the presidential suite on the technical floor with a sculpture under the skylight."}
+{"input": "floor: fourth floor; userPositionInfo: middle of event hall;", "output": "You are on the fourth floor, in the middle of the event hall."}
+{"input": "floor: utility level; userPositionInfo: central area of prayer room; landmarkInfo: large planter along the wall;", "output": "You are on the utility level, in the central area of the prayer room with a large planter along the wall."}
+{"input": "floor: reception level; userPositionInfo: middle of walk-in closet; landmarkInfo: ceiling beam in the central area;", "output": "You are on the reception level, in the middle of the walk-in closet with a ceiling beam in the central area."}
+{"input": "floor: penthouse level; userPositionInfo: end of research room; landmarkInfo: ventilation shaft in the middle;", "output": "You are on the penthouse level, at the end of the research room with a ventilation shaft in the middle."}
+{"input": "floor: B1; userPositionInfo: near entrance of charging room;", "output": "You are on the B1, near the entrance of the charging room."}
+{"input": "floor: first floor; userPositionInfo: in data center hall;", "output": "You are in the data center hall on the first floor."}
+{"input": "floor: top floor; userPositionInfo: central area of examination room;", "output": "You are on the top floor, in the central area of the examination room."}
+{"input": "floor: lower ground floor; userPositionInfo: near exit of conference hall; landmarkInfo: ventilation shaft in the middle;", "output": "You are on the lower ground floor, near the exit of the conference hall with a ventilation shaft in the middle."}
+{"input": "floor: main floor; userPositionInfo: central area of electrical room; landmarkInfo: fixed railing under the skylight;", "output": "You are on the main floor, in the central area of the electrical room with a fixed railing under the skylight."}
+{"input": "floor: executive floor; userPositionInfo: in main corridor;", "output": "You are in the main corridor on the executive floor."}
+{"input": "floor: entry level; userPositionInfo: near entrance of X-ray room;", "output": "You are on the entry level, near the entrance of the X-ray room."}
+{"input": "floor: cellar; userPositionInfo: near entrance of toilet;", "output": "You are on the cellar, near the entrance of the toilet."}
+{"input": "floor: first floor; userPositionInfo: beginning of stockroom; landmarkInfo: floor drain near the elevator;", "output": "You are on the first floor, at the beginning of the stockroom with a floor drain near the elevator."}
+{"input": "floor: underground level; userPositionInfo: near exit of event hall;", "output": "You are on the underground level, near the exit of the event hall."}
+{"input": "floor: executive floor; userPositionInfo: near exit of reading room;", "output": "You are on the executive floor, near the exit of the reading room."}
+{"input": "floor: entry level; userPositionInfo: central area of fitting room; landmarkInfo: column along the wall;", "output": "You are on the entry level, in the central area of the fitting room with a column along the wall."}
+{"input": "floor: maintenance level; userPositionInfo: near entrance of CT room; landmarkInfo: art installation near the entrance;", "output": "You are on the maintenance level, near the entrance of the CT room with a art installation near the entrance."}
+{"input": "floor: B2; userPositionInfo: beginning of side corridor;", "output": "You are on the B2, at the beginning of the side corridor."}
+{"input": "floor: ground floor; userPositionInfo: near exit of parking hall;", "output": "You are on the ground floor, near the exit of the parking hall."}
+{"input": "floor: technical floor; userPositionInfo: in presidential suite; landmarkInfo: sculpture under the skylight;", "output": "You are in the presidential suite on the technical floor with a sculpture under the skylight."}
+{"input": "floor: fourth floor; userPositionInfo: middle of event hall;", "output": "You are on the fourth floor, in the middle of the event hall."}
+{"input": "floor: utility level; userPositionInfo: central area of prayer room; landmarkInfo: large planter along the wall;", "output": "You are on the utility level, in the central area of the prayer room with a large planter along the wall."}
+{"input": "floor: reception level; userPositionInfo: middle of walk-in closet; landmarkInfo: ceiling beam in the central area;", "output": "You are on the reception level, in the middle of the walk-in closet with a ceiling beam in the central area."}
+{"input": "floor: penthouse level; userPositionInfo: end of research room; landmarkInfo: ventilation shaft in the middle;", "output": "You are on the penthouse level, at the end of the research room with a ventilation shaft in the middle."}
+{"input": "floor: B1; userPositionInfo: near entrance of charging room;", "output": "You are on the B1, near the entrance of the charging room."}
+{"input": "floor: first floor; userPositionInfo: in data center hall;", "output": "You are in the data center hall on the first floor."}
+{"input": "floor: top floor; userPositionInfo: central area of examination room;", "output": "You are on the top floor, in the central area of the examination room."}
+{"input": "floor: lower ground floor; userPositionInfo: near exit of conference hall; landmarkInfo: ventilation shaft in the middle;", "output": "You are on the lower ground floor, near the exit of the conference hall with a ventilation shaft in the middle."}
+{"input": "floor: main floor; userPositionInfo: central area of electrical room; landmarkInfo: fixed railing under the skylight;", "output": "You are on the main floor, in the central area of the electrical room with a fixed railing under the skylight."}
+{"input": "floor: executive floor; userPositionInfo: in main corridor;", "output": "You are in the main corridor on the executive floor."}
+{"input": "floor: entry level; userPositionInfo: near entrance of X-ray room;", "output": "You are on the entry level, near the entrance of the X-ray room."}
+{"input": "floor: cellar; userPositionInfo: near entrance of toilet;", "output": "You are on the cellar, near the entrance of the toilet."}
+{"input": "floor: first floor; userPositionInfo: beginning of stockroom; landmarkInfo: floor drain near the elevator;", "output": "You are on the first floor, at the beginning of the stockroom with a floor drain near the elevator."}
+{"input": "floor: underground level; userPositionInfo: near exit of event hall;", "output": "You are on the underground level, near the exit of the event hall."}
+{"input": "floor: executive floor; userPositionInfo: near exit of reading room;", "output": "You are on the executive floor, near the exit of the reading room."}
+{"input": "floor: entry level; userPositionInfo: central area of fitting room; landmarkInfo: column along the wall;", "output": "You are on the entry level, in the central area of the fitting room with a column along the wall."}
+{"input": "floor: maintenance level; userPositionInfo: near entrance of CT room; landmarkInfo: art installation near the entrance;", "output": "You are on the maintenance level, near the entrance of the CT room with a art installation near the entrance."}
+{"input": "floor: B2; userPositionInfo: beginning of side corridor;", "output": "You are on the B2, at the beginning of the side corridor."}
+{"input": "floor: ground floor; userPositionInfo: near exit of parking hall;", "output": "You are on the ground floor, near the exit of the parking hall."}
+{"input": "floor: technical floor; userPositionInfo: in presidential suite; landmarkInfo: sculpture under the skylight;", "output": "You are in the presidential suite on the technical floor with a sculpture under the skylight."}
+{"input": "floor: fourth floor; userPositionInfo: middle of event hall;", "output": "You are on the fourth floor, in the middle of the event hall."}
+{"input": "floor: utility level; userPositionInfo: central area of prayer room; landmarkInfo: large planter along the wall;", "output": "You are on the utility level, in the central area of the prayer room with a large planter along the wall."}
+{"input": "floor: reception level; userPositionInfo: middle of walk-in closet; landmarkInfo: ceiling beam in the central area;", "output": "You are on the reception level, in the middle of the walk-in closet with a ceiling beam in the central area."}
+{"input": "floor: penthouse level; userPositionInfo: end of research room; landmarkInfo: ventilation shaft in the middle;", "output": "You are on the penthouse level, at the end of the research room with a ventilation shaft in the middle."}
+{"input": "floor: B1; userPositionInfo: near entrance of charging room;", "output": "You are on the B1, near the entrance of the charging room."}
+{"input": "floor: first floor; userPositionInfo: in data center hall;", "output": "You are in the data center hall on the first floor."}
+{"input": "floor: top floor; userPositionInfo: central area of examination room;", "output": "You are on the top floor, in the central area of the examination room."}
+{"input": "floor: lower ground floor; userPositionInfo: near exit of conference hall; landmarkInfo: ventilation shaft in the middle;", "output": "You are on the lower ground floor, near the exit of the conference hall with a ventilation shaft in the middle."}
+{"input": "floor: main floor; userPositionInfo: central area of electrical room; landmarkInfo: fixed railing under the skylight;", "output": "You are on the main floor, in the central area of the electrical room with a fixed railing under the skylight."}
+{"input": "floor: executive floor; userPositionInfo: in main corridor;", "output": "You are in the main corridor on the executive floor."}
+{"input": "floor: entry level; userPositionInfo: near entrance of X-ray room;", "output": "You are on the entry level, near the entrance of the X-ray room."}
+{"input": "floor: cellar; userPositionInfo: near entrance of toilet;", "output": "You are on the cellar, near the entrance of the toilet."}
+{"input": "floor: first floor; userPositionInfo: beginning of stockroom; landmarkInfo: floor drain near the elevator;", "output": "You are on the first floor, at the beginning of the stockroom with a floor drain near the elevator."}
+{"input": "floor: underground level; userPositionInfo: near exit of event hall;", "output": "You are on the underground level, near the exit of the event hall."}
+{"input": "floor: executive floor; userPositionInfo: near exit of reading room;", "output": "You are on the executive floor, near the exit of the reading room."}
+{"input": "floor: entry level; userPositionInfo: central area of fitting room; landmarkInfo: column along the wall;", "output": "You are on the entry level, in the central area of the fitting room with a column along the wall."}
+{"input": "floor: maintenance level; userPositionInfo: near entrance of CT room; landmarkInfo: art installation near the entrance;", "output": "You are on the maintenance level, near the entrance of the CT room with a art installation near the entrance."}
+{"input": "floor: B2; userPositionInfo: beginning of side corridor;", "output": "You are on the B2, at the beginning of the side corridor."}
+{"input": "floor: ground floor; userPositionInfo: near exit of parking hall;", "output": "You are on the ground floor, near the exit of the parking hall."}
+{"input": "floor: technical floor; userPositionInfo: in presidential suite; landmarkInfo: sculpture under the skylight;", "output": "You are in the presidential suite on the technical floor with a sculpture under the skylight."}
+{"input": "floor: fourth floor; userPositionInfo: middle of event hall;", "output": "You are on the fourth floor, in the middle of the event hall."}
+{"input": "floor: utility level; userPositionInfo: central area of prayer room; landmarkInfo: large planter along the wall;", "output": "You are on the utility level, in the central area of the prayer room with a large planter along the wall."}
+{"input": "floor: reception level; userPositionInfo: middle of walk-in closet; landmarkInfo: ceiling beam in the central area;", "output": "You are on the reception level, in the middle of the walk-in closet with a ceiling beam in the central area."}
+{"input": "floor: penthouse level; userPositionInfo: end of research room; landmarkInfo: ventilation shaft in the middle;", "output": "You are on the penthouse level, at the end of the research room with a ventilation shaft in the middle."}
+{"input": "floor: B1; userPositionInfo: near entrance of charging room;", "output": "You are on the B1, near the entrance of the charging room."}
+{"input": "floor: first floor; userPositionInfo: in data center hall;", "output": "You are in the data center hall on the first floor."}
+{"input": "floor: top floor; userPositionInfo: central area of examination room;", "output": "You are on the top floor, in the central area of the examination room."}
+{"input": "floor: lower ground floor; userPositionInfo: near exit of conference hall; landmarkInfo: ventilation shaft in the middle;", "output": "You are on the lower ground floor, near the exit of the conference hall with a ventilation shaft in the middle."}
+{"input": "floor: main floor; userPositionInfo: central area of electrical room; landmarkInfo: fixed railing under the skylight;", "output": "You are on the main floor, in the central area of the electrical room with a fixed railing under the skylight."}
+{"input": "floor: executive floor; userPositionInfo: in main corridor;", "output": "You are in the main corridor on the executive floor."}
+{"input": "floor: entry level; userPositionInfo: near entrance of X-ray room;", "output": "You are on the entry level, near the entrance of the X-ray room."}
+{"input": "floor: cellar; userPositionInfo: near entrance of toilet;", "output": "You are on the cellar, near the entrance of the toilet."}
